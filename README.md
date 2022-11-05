@@ -1,1 +1,1 @@
-# Number-Mania-
+# Number-Mania
